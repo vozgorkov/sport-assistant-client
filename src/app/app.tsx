@@ -1,15 +1,13 @@
 import React from 'react';
 import { Container } from './app.styles';
 
-function App() {
-  const test = () => 111;
-
+const App = () => {
   return (
     <Container className="App">
       <div />
       <h1>Hello World..!</h1>
     </Container>
   );
-}
+};
 
 export default App;
