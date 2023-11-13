@@ -1,0 +1,25 @@
+{
+  "name": "Sport Assistant",
+  "short_name": "Sport Assistant",
+  "icons": [
+    {
+      "src": "/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/sport-assistant-client",
+  "id": "/sport-assistant-client",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#3f51b5",
+  "description": "Application that will assist in your training",
+  "lang": "en-US"
+}
